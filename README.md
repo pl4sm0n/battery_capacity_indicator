@@ -15,7 +15,7 @@ The system operates entirely in the analog domain, ensuring zero software latenc
 * **Power Regulation:** HT7533-1 LDO (SOT-89 package for thermal efficiency up to 16.8V).
 * **Routing:** 22 surface-mount components routed on a single top layer (F.Cu) utilizing a bottom-layer (B.Cu) ground pour and stitched vias.
 
-### 🛠️ Hardware Lead
+
 **Plasmon Dhal**
 EEE
 ABV-IIITM
